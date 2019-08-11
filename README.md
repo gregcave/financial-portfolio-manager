@@ -46,12 +46,12 @@
 
 ## Authors
 
-* Antonis Moussoulides - System Design/Developer*
-* Gheorghe-Cristian Osman - Lead Developer*
-* Greg Cave - Team Leader*
-* Jordan Quartey - Analyst/Developer*
-* Peter Seward - Analyst*
-* Suraj Shrestha - Developer*
+* Antonis Moussoulides - System Design/Developer
+* Gheorghe-Cristian Osman - Lead Developer
+* Greg Cave - Team Leader
+* Jordan Quartey - Analyst/Developer
+* Peter Seward - Analyst
+* Suraj Shrestha - Developer
 
 ## License
 
