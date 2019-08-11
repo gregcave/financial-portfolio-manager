@@ -1,0 +1,10 @@
+Agilent Technologies Inc.,A,-2
+Altaba Inc.,AABA,0
+Alcoa Corporation,AA,0
+Perth Mint Physical Gold,AAAU,0
+AAC Holdings Inc.,AAC,20
+AdvisorShares Dorsey Wright ADR,AADR,0
+American Airlines Group Inc.,AAL,0
+NEO USD,NEOUSDT,0
+Applied Optoelectronics Inc.,AAOI,0
+American Assets Trust Inc.,AAT,0
