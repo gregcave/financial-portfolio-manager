@@ -42,7 +42,7 @@
 
 ## Contributing
 
-*Please see [CONTRIBUTING.md](https://cseegit.essex.ac.uk/ce291/team4/teamproject) for details on submitting pull requests to us.*
+*Please see [CONTRIBUTING.md](https://github.com/gregorycave/financial-portfolio-manager) for details on submitting pull requests to us.*
 
 ## Authors
 
@@ -55,4 +55,4 @@
 
 ## License
 
-*This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details*
+*This project is licensed under the Apache License 2.0 - see the [LICENSE.md](https://github.com/gregorycave/financial-portfolio-manager) file for details*
