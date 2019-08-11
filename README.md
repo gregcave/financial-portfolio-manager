@@ -1,4 +1,4 @@
-[# CE291 Group Project - Financial Portfolio Manager
+# Financial Portfolio Manager
 
 *A personal finance application, built using Java, that tracks and displays the investments of a client. The program uses IEX's API service to track and display stock data live to the user.*
 *The program also uses .csv files to store the user's portfolio information, allowing the user to view the total value of their personal investments at any given date within the last 3 years.*
