@@ -12,11 +12,11 @@
 
 *To work with the financial portfolio manager in a development environment, you'll need to install the following packages within IntelliJ:*
 
-*fontbox: https://github.com/syntelos/fontbox
-*jackson-api: https://github.com/FasterXML/jackson
-*pdfbox: https://github.com/apache/pdfbox
-*xchart: https://github.com/knowm/XChart
-*xmpbox: https://github.com/apache/pdfbox/tree/trunk/xmpbox
+* fontbox: https://github.com/syntelos/fontbox
+* jackson-api: https://github.com/FasterXML/jackson
+* pdfbox: https://github.com/apache/pdfbox
+* xchart: https://github.com/knowm/XChart
+* xmpbox: https://github.com/apache/pdfbox/tree/trunk/xmpbox
 
 *It's not necessary to install these packages to run the program in a product environment, as they are already packaged into the .jar file so that it will successfully run when compiled.*
 
