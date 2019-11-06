@@ -1,6 +1,1 @@
-cristian,qweasd,5105.66
-adrian,qweasd,0.0
-isabela,qweasd,0.0
-bogdan,qweasd,0.0
-andrei,qweasd,0.0
-gigi,schema,0.0
+
